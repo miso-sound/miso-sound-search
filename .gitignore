@@ -1,5 +1,5 @@
 *.csv
 
-my_token/*
+my_tokens/*
 
 .ipynb_checkpoints

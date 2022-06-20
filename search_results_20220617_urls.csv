@@ -1,10 +1,10 @@
-term,url,priority,current_term_present,other_term_present,notes
-sipping hot liquid,https://freesound.org/people/Kinoton/sounds/462270/,1,,,
-slurping,https://freesound.org/people/launchsite/sounds/556780/,2,,,
-slurping,https://freesound.org/people/ASMR_Tingles/sounds/530350/,3,,,
-slurping,https://freesound.org/people/charliemidi/sounds/68145/,4,,,
-slurping,https://freesound.org/people/redcheek/sounds/251984/,5,,,
-slurping,https://freesound.org/people/bfederi1/sounds/382029/,6,,,
+﻿term,url,priority,current_term_present,other_term_present,notes
+sipping hot liquid,https://freesound.org/people/Kinoton/sounds/462270/,1,Yes,Yes,Others: swallowing
+slurping,https://freesound.org/people/launchsite/sounds/556780/,2,Yes,No,
+slurping,https://freesound.org/people/ASMR_Tingles/sounds/530350/,3,Yes,Yes,Others: swallowing
+slurping,https://freesound.org/people/charliemidi/sounds/68145/,4,Yes,Yes,"Others: swallowing, footsteps, murmuring "
+slurping,https://freesound.org/people/redcheek/sounds/251984/,5,Yes,Yes,"Others: exhaling, taping mug on table"
+slurping,https://freesound.org/people/bfederi1/sounds/382029/,6,Yes,Yes,Others: hand/finger tapping
 slurping,https://freesound.org/people/ssssrt/sounds/546155/,7,,,
 slurping,https://freesound.org/people/abstraktgeneriert/sounds/194466/,8,,,
 slurping,https://freesound.org/people/fille1000/sounds/67230/,9,,,
@@ -33,24 +33,25 @@ slurping,https://freesound.org/people/Alex-Fullam/sounds/552700/,31,,,
 slurping,https://freesound.org/people/GoldenTricycle/sounds/521392/,32,,,
 slurping,https://freesound.org/people/davidjvitale/sounds/627018/,33,,,
 slurping,https://freesound.org/people/KrypticKnight/sounds/523704/,34,,,
-lip smacks,https://freesound.org/people/fightfightingman1/sounds/437489/,35,,,
-lip smacks,https://freesound.org/people/fthgurdy/sounds/528195/,36,,,
-lip smacks,https://freesound.org/people/bmt79/sounds/547234/,37,,,
-lip smacks,https://freesound.org/people/Closetwalrus/sounds/370297/,38,,,
-lip smacks,https://freesound.org/people/benniknop/sounds/317848/,39,,,
-lip smacks,https://freesound.org/people/yaboiiiiiiiii/sounds/433926/,40,,,
+lip smacks,https://freesound.org/people/fightfightingman1/sounds/437489/,35,Yes,Yes,"Others: speaking, grunting, laughing"
+lip smacks,https://freesound.org/people/fthgurdy/sounds/528195/,36,Yes,Yes,Others: slurping
+lip smacks,https://freesound.org/people/bmt79/sounds/547234/,37,Yes,No,
+lip smacks,https://freesound.org/people/Closetwalrus/sounds/370297/,38,Yes,No,
+lip smacks,https://freesound.org/people/benniknop/sounds/317848/,39,Unsure,Yes,Others: lips popping noise
+lip smacks,https://freesound.org/people/yaboiiiiiiiii/sounds/433926/,40,Yes,No,
 lip smacks,https://freesound.org/people/justinstroud/sounds/180150/,41,,,
 lip smacks,https://freesound.org/people/bmusic92/sounds/232930/,42,,,
 lip smacks,https://freesound.org/people/14GPanskaMuzatko_Matej/sounds/419780/,43,,,
 lip smacks,https://freesound.org/people/blwuens/sounds/515149/,44,,,
 lip smacks,https://freesound.org/people/dreamstobecome/sounds/529295/,45,,,
 lip smacks,https://freesound.org/people/foxboyprower/sounds/512576/,46,,,
-clicking a pen,https://freesound.org/people/deleted_user_7146007/sounds/383436/,47,,,
-chewing gum,https://freesound.org/people/ryanharding95/sounds/272420/,48,,,
-chewing gum,https://freesound.org/people/4barrelcarb/sounds/273469/,49,,,
-chewing gum,https://freesound.org/people/forevermari/sounds/395087/,50,,,
-chewing gum,https://freesound.org/people/thegoose09/sounds/125375/,51,,,
-chewing gum,https://freesound.org/people/Jonnyhoff91/sounds/187258/,52,,,
+clicking a pen,https://freesound.org/people/deleted_user_7146007/sounds/383436/,47,Yes,No,
+chewing gum,https://freesound.org/people/ryanharding95/sounds/272420/,48,Yes,Yes,Others: Slight exhaling
+chewing gum,https://freesound.org/people/4barrelcarb/sounds/273469/,49,Yes,No,
+chewing gum,https://freesound.org/people/forevermari/sounds/395087/,50,Yes,Yes,"Others: Lip smacking, mouth popping"
+chewing gum,https://freesound.org/people/thegoose09/sounds/125375/,51,Yes,Yes,"Very faint. 
+Others: distant talking. "
+chewing gum,https://freesound.org/people/Jonnyhoff91/sounds/187258/,52,Yes,No,Faint noise level
 chewing gum,https://freesound.org/people/Truss88/sounds/613719/,53,,,
 chewing gum,https://freesound.org/people/mr101986/sounds/94719/,54,,,
 chewing gum,https://freesound.org/people/julia.perry.19/sounds/486846/,55,,,
@@ -69,7 +70,7 @@ clipping nails,https://freesound.org/people/buzzatsea/sounds/431218/,67,,,
 clipping nails,https://freesound.org/people/lighteningjimmy88/sounds/495858/,68,,,
 clipping nails,https://freesound.org/people/martian/sounds/201635/,69,,,
 male sniffles,https://freesound.org/people/ThunderQuads/sounds/467203/,70,,,
-flipping newspaper pages,https://freesound.org/people/finneganmilla/sounds/557540/,71,,,
+flipping newspaper pages,https://freesound.org/people/finneganmilla/sounds/557540/,71,Yes,No,
 flipping newspaper pages,https://freesound.org/people/miekyj/sounds/326468/,72,,,
 flipping newspaper pages,https://freesound.org/people/x._.Sircartier/sounds/636467/,73,,,
 flipping newspaper pages,https://freesound.org/people/SpaceJoe/sounds/484956/,74,,,

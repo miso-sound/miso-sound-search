@@ -1,10 +1,10 @@
-﻿term,url,priority,current_term_present,other_term_present,notes
+term,url,priority,current_term_present,other_term_present,notes
 sipping hot liquid,https://freesound.org/people/Kinoton/sounds/462270/,1,Yes,Yes,Others: swallowing
-slurping,https://freesound.org/people/launchsite/sounds/556780/,2,Yes,No,
+slurping,https://freesound.org/people/launchsite/sounds/556780/,2,Yes,No,Straw sound 
 slurping,https://freesound.org/people/ASMR_Tingles/sounds/530350/,3,Yes,Yes,Others: swallowing
 slurping,https://freesound.org/people/charliemidi/sounds/68145/,4,Yes,Yes,"Others: swallowing, footsteps, murmuring "
 slurping,https://freesound.org/people/redcheek/sounds/251984/,5,Yes,Yes,"Others: exhaling, taping mug on table"
-slurping,https://freesound.org/people/bfederi1/sounds/382029/,6,Yes,Yes,Others: hand/finger tapping
+slurping,https://freesound.org/people/bfederi1/sounds/382029/,6,Yes,Yes,Others: plastic tapping 
 slurping,https://freesound.org/people/ssssrt/sounds/546155/,7,,,
 slurping,https://freesound.org/people/abstraktgeneriert/sounds/194466/,8,,,
 slurping,https://freesound.org/people/fille1000/sounds/67230/,9,,,
@@ -33,21 +33,21 @@ slurping,https://freesound.org/people/Alex-Fullam/sounds/552700/,31,,,
 slurping,https://freesound.org/people/GoldenTricycle/sounds/521392/,32,,,
 slurping,https://freesound.org/people/davidjvitale/sounds/627018/,33,,,
 slurping,https://freesound.org/people/KrypticKnight/sounds/523704/,34,,,
-lip smacks,https://freesound.org/people/fightfightingman1/sounds/437489/,35,Yes,Yes,"Others: speaking, grunting, laughing"
+lip smacks,https://freesound.org/people/fightfightingman1/sounds/437489/,35,,,
 lip smacks,https://freesound.org/people/fthgurdy/sounds/528195/,36,Yes,Yes,Others: slurping
-lip smacks,https://freesound.org/people/bmt79/sounds/547234/,37,Yes,No,
-lip smacks,https://freesound.org/people/Closetwalrus/sounds/370297/,38,Yes,No,
+lip smacks,https://freesound.org/people/bmt79/sounds/547234/,37,Yes,No,Gum chewing
+lip smacks,https://freesound.org/people/Closetwalrus/sounds/370297/,38,Yes,No,Gum chewing
 lip smacks,https://freesound.org/people/benniknop/sounds/317848/,39,Unsure,Yes,Others: lips popping noise
-lip smacks,https://freesound.org/people/yaboiiiiiiiii/sounds/433926/,40,Yes,No,
-lip smacks,https://freesound.org/people/justinstroud/sounds/180150/,41,,,
+lip smacks,https://freesound.org/people/yaboiiiiiiiii/sounds/433926/,40,Yes,No,Quick smacking 
+lip smacks,https://freesound.org/people/justinstroud/sounds/180150/,41,Yes,No,Eating peanut butter
 lip smacks,https://freesound.org/people/bmusic92/sounds/232930/,42,,,
 lip smacks,https://freesound.org/people/14GPanskaMuzatko_Matej/sounds/419780/,43,,,
 lip smacks,https://freesound.org/people/blwuens/sounds/515149/,44,,,
 lip smacks,https://freesound.org/people/dreamstobecome/sounds/529295/,45,,,
 lip smacks,https://freesound.org/people/foxboyprower/sounds/512576/,46,,,
-clicking a pen,https://freesound.org/people/deleted_user_7146007/sounds/383436/,47,Yes,No,
+clicking a pen,https://freesound.org/people/deleted_user_7146007/sounds/383436/,47,,,
 chewing gum,https://freesound.org/people/ryanharding95/sounds/272420/,48,Yes,Yes,Others: Slight exhaling
-chewing gum,https://freesound.org/people/4barrelcarb/sounds/273469/,49,Yes,No,
+chewing gum,https://freesound.org/people/4barrelcarb/sounds/273469/,49,Yes,No,Punctuated chewing
 chewing gum,https://freesound.org/people/forevermari/sounds/395087/,50,Yes,Yes,"Others: Lip smacking, mouth popping"
 chewing gum,https://freesound.org/people/thegoose09/sounds/125375/,51,Yes,Yes,"Very faint. 
 Others: distant talking. "
@@ -63,27 +63,27 @@ chewing gum,https://freesound.org/people/deleted_user_958643/sounds/444380/,60,,
 chewing gum,https://freesound.org/people/hannahj40/sounds/271483/,61,,,
 chewing gum,https://freesound.org/people/jontahontas/sounds/91980/,62,,,
 chewing gum,https://freesound.org/people/rothgarblue/sounds/504736/,63,,,
-clipping nails,https://freesound.org/people/taya_yelton/sounds/462308/,64,,,
-clipping nails,https://freesound.org/people/Rehanjo/sounds/593600/,65,,,
-clipping nails,https://freesound.org/people/EugeneEverett/sounds/596481/,66,,,
-clipping nails,https://freesound.org/people/buzzatsea/sounds/431218/,67,,,
-clipping nails,https://freesound.org/people/lighteningjimmy88/sounds/495858/,68,,,
-clipping nails,https://freesound.org/people/martian/sounds/201635/,69,,,
+clipping nails,https://freesound.org/people/taya_yelton/sounds/462308/,64,Yes,Yes,"Others: Female voice at start saying “Clipping nails part two,” background cars honking. Low quality. "
+clipping nails,https://freesound.org/people/Rehanjo/sounds/593600/,65,Yes,No,
+clipping nails,https://freesound.org/people/EugeneEverett/sounds/596481/,66,Yes,No,
+clipping nails,https://freesound.org/people/buzzatsea/sounds/431218/,67,Yes,No,
+clipping nails,https://freesound.org/people/lighteningjimmy88/sounds/495858/,68,Yes,Yes,Others: male saying “nail clipping take two.” Harsh clipping sounds
+clipping nails,https://freesound.org/people/martian/sounds/201635/,69,No,,
 male sniffles,https://freesound.org/people/ThunderQuads/sounds/467203/,70,,,
 flipping newspaper pages,https://freesound.org/people/finneganmilla/sounds/557540/,71,Yes,No,
-flipping newspaper pages,https://freesound.org/people/miekyj/sounds/326468/,72,,,
-flipping newspaper pages,https://freesound.org/people/x._.Sircartier/sounds/636467/,73,,,
-flipping newspaper pages,https://freesound.org/people/SpaceJoe/sounds/484956/,74,,,
-flipping newspaper pages,https://freesound.org/people/simone_ds/sounds/366079/,75,,,
-flipping newspaper pages,https://freesound.org/people/Gammelsmurfen778/sounds/473981/,76,,,
-flipping newspaper pages,https://freesound.org/people/ArnyDnD/sounds/232516/,77,,,
-flipping newspaper pages,https://freesound.org/people/alonlubenfeld/sounds/275304/,78,,,
-typing,https://freesound.org/people/TinyRay/sounds/624499/,79,,,
-typing,https://freesound.org/people/zrrion_the_insect/sounds/469013/,80,,,
-typing,https://freesound.org/people/grcekh/sounds/546032/,81,,,
-typing,https://freesound.org/people/Posontic/sounds/446021/,82,,,
-typing,https://freesound.org/people/Anaponce/sounds/535211/,83,,,
-typing,https://freesound.org/people/Alivvie/sounds/323432/,84,,,
+flipping newspaper pages,https://freesound.org/people/miekyj/sounds/326468/,72,Unsure,No,Paper sounds stiff (not like newspaper). Lower pitch 
+flipping newspaper pages,https://freesound.org/people/x._.Sircartier/sounds/636467/,73,Yes,No,
+flipping newspaper pages,https://freesound.org/people/SpaceJoe/sounds/484956/,74,Yes,No,
+flipping newspaper pages,https://freesound.org/people/simone_ds/sounds/366079/,75,No,Yes,Others: book pages quickly flipped
+flipping newspaper pages,https://freesound.org/people/Gammelsmurfen778/sounds/473981/,76,Yes,Yes,"Others: footsteps (brief), exhale (also brief)"
+flipping newspaper pages,https://freesound.org/people/ArnyDnD/sounds/232516/,77,Yes,No,Slight background white noise (public place?) 
+flipping newspaper pages,https://freesound.org/people/alonlubenfeld/sounds/275304/,78,Yes,No,Paper sounds stiff (not like newspaper). Lower pitch 
+typing,https://freesound.org/people/TinyRay/sounds/624499/,79,Yes,Yes,"Others: faint birds in background. Typing is slow, pressing individual keys. Included as 6th sound for variety’s sake"
+typing,https://freesound.org/people/zrrion_the_insect/sounds/469013/,80,Yes,No,
+typing,https://freesound.org/people/grcekh/sounds/546032/,81,Yes,No,
+typing,https://freesound.org/people/Posontic/sounds/446021/,82,Yes,No,
+typing,https://freesound.org/people/Anaponce/sounds/535211/,83,Yes,No,
+typing,https://freesound.org/people/Alivvie/sounds/323432/,84,Yes,No,
 typing,https://freesound.org/people/Alphium/sounds/470937/,85,,,
 typing,https://freesound.org/people/Rodzuz/sounds/393902/,86,,,
 typing,https://freesound.org/people/Nifargov/sounds/361479/,87,,,
@@ -128,24 +128,24 @@ typing,https://freesound.org/people/BrodieSound/sounds/349377/,125,,,
 typing,https://freesound.org/people/MiSk3/sounds/489514/,126,,,
 typing,https://freesound.org/people/KCJones321/sounds/411191/,127,,,
 typing,https://freesound.org/people/jjastr1/sounds/134962/,128,,,
-basketball dribbling,https://freesound.org/people/OBXJohn/sounds/262507/,129,,,
-basketball dribbling,https://freesound.org/people/nolanrice/sounds/402292/,130,,,
-basketball dribbling,https://freesound.org/people/121053699/sounds/467995/,131,,,
-basketball dribbling,https://freesound.org/people/FartMuffin/sounds/580220/,132,,,
-basketball dribbling,https://freesound.org/people/Legnalegna55/sounds/530362/,133,,,
-basketball dribbling,https://freesound.org/people/H1gherCalling/sounds/184320/,134,,,
-basketball dribbling,https://freesound.org/people/kyles/sounds/453757/,135,,,
-basketball dribbling,https://freesound.org/people/fattirewhitey/sounds/381410/,136,,,
-knife cutting,https://freesound.org/people/qubodup/sounds/87506/,137,,,
-knife cutting,https://freesound.org/people/nmscher/sounds/87984/,138,,,
-knife cutting,https://freesound.org/people/14Douderova_Adela/sounds/419998/,139,,,
-knife cutting,https://freesound.org/people/spanrucker/sounds/272223/,140,,,
-knife cutting,https://freesound.org/people/bochevictoria007/sounds/539291/,141,,,
-knife cutting,https://freesound.org/people/Klaraschick/sounds/415313/,142,,,
+basketball dribbling,https://freesound.org/people/OBXJohn/sounds/262507/,129,Yes,No,"Echos, starts slow then speeds up cadence half way through "
+basketball dribbling,https://freesound.org/people/nolanrice/sounds/402292/,130,Yes,Yes,"Others: heavy background noise, crowds and various conversations, footsteps, laughing, male yelling"
+basketball dribbling,https://freesound.org/people/121053699/sounds/467995/,131,Yes,No,Low quality sound
+basketball dribbling,https://freesound.org/people/FartMuffin/sounds/580220/,132,Yes,No,"Slight echo, slow bouncing "
+basketball dribbling,https://freesound.org/people/Legnalegna55/sounds/530362/,133,Yes,Yes,"Others: slight foot shuffling, hand tapping"
+basketball dribbling,https://freesound.org/people/H1gherCalling/sounds/184320/,134,Yes,No,Dribbling to regular beat 
+basketball dribbling,https://freesound.org/people/kyles/sounds/453757/,135,Yes,No,
+basketball dribbling,https://freesound.org/people/fattirewhitey/sounds/381410/,136,Yes,Yes,"Others: child exhaling, basketball net swoosh, footsteps/shuffling"
+knife cutting,https://freesound.org/people/qubodup/sounds/87506/,137,Yes,No,Cutting bread. Coarse sounds
+knife cutting,https://freesound.org/people/nmscher/sounds/87984/,138,Yes,No,"Cutting carrot, damp thuds"
+knife cutting,https://freesound.org/people/14Douderova_Adela/sounds/419998/,139,Yes,No,"Chopping on wood sound, cutting through soft food to hear cutting board sounds"
+knife cutting,https://freesound.org/people/spanrucker/sounds/272223/,140,Yes,Yes,"Sawing sounds back and forth in bread, squishing bread"
+knife cutting,https://freesound.org/people/bochevictoria007/sounds/539291/,141,Yes,No,Chopping on wood cutting board sounds. Includes fast chopping
+knife cutting,https://freesound.org/people/Klaraschick/sounds/415313/,142,Unsure,,"Vague cutting sounds, almost more like tapping "
 knife cutting,https://freesound.org/people/Caitlin_100/sounds/365548/,143,,,
 knife cutting,https://freesound.org/people/RobertWedderburn/sounds/487030/,144,,,
 knife cutting,https://freesound.org/people/hannahbelle144/sounds/625624/,145,,,
-knife cutting,https://freesound.org/people/Dr.%20Macak/sounds/201033/,146,,,
+knife cutting,https://freesound.org/people/Dr.%20Macak/sounds/201033/,146,Yes,No,Cutting carrot again 
 knife cutting,https://freesound.org/people/labailey/sounds/79031/,147,,,
 knife cutting,https://freesound.org/people/Erbsland-Music/sounds/634119/,148,,,
 knife cutting,https://freesound.org/people/techyactor15/sounds/382713/,149,,,
@@ -160,11 +160,11 @@ knife cutting,https://freesound.org/people/dutchlady/sounds/360796/,157,,,
 knife cutting,https://freesound.org/people/freakmanson/sounds/515330/,158,,,
 knife cutting,https://freesound.org/people/13FPanska_Novotny_Stepan/sounds/378690/,159,,,
 knife cutting,https://freesound.org/people/Beans1026/sounds/611420/,160,,,
-human breathing,https://freesound.org/people/UncleSigmund/sounds/30709/,161,,,
-human breathing,https://freesound.org/people/giddster/sounds/336530/,162,,,
-human breathing,https://freesound.org/people/mcroce/sounds/234335/,163,,,
-human breathing,https://freesound.org/people/Zrte/sounds/470897/,164,,,
-human breathing,https://freesound.org/people/Nox_Sound/sounds/554907/,165,,,
+human breathing,https://freesound.org/people/UncleSigmund/sounds/30709/,161,Yes,No,Very clear! Slow and increasingly faster breaths. Male
+human breathing,https://freesound.org/people/giddster/sounds/336530/,162,Yes,Yes,"Others: faint whimper, panicked and inconsistent breaths. Scared male. "
+human breathing,https://freesound.org/people/mcroce/sounds/234335/,163,Yes,No,Gasp then subsequent frightened breaths. Sounds female
+human breathing,https://freesound.org/people/Zrte/sounds/470897/,164,Yes,No,"Slow, deep male breaths"
+human breathing,https://freesound.org/people/Nox_Sound/sounds/554907/,165,Yes,No,"Male panting, as if tired "
 human breathing,https://freesound.org/people/gtrempe/sounds/444726/,166,,,
 human breathing,https://freesound.org/people/CaptainYulef/sounds/638611/,167,,,
 human breathing,https://freesound.org/people/AbuNijmeh/sounds/319103/,168,,,
@@ -198,11 +198,11 @@ sniffling,https://freesound.org/people/ericnorcross81/sounds/555734/,195,,,
 coins shuffling,https://freesound.org/people/The_Frisbee_of_Peace/sounds/575584/,196,,,
 coins shuffling,https://freesound.org/people/buzbe20/sounds/389756/,197,,,
 coins shuffling,https://freesound.org/people/FractalStudios/sounds/363088/,198,,,
-plastic crumpling,https://freesound.org/people/jrsevers3/sounds/444745/,199,,,
-plastic crumpling,https://freesound.org/people/myfreesoundaccount1998/sounds/543249/,200,,,
-plastic crumpling,https://freesound.org/people/matthewHoldenSound/sounds/542510/,201,,,
-plastic crumpling,https://freesound.org/people/phonographfilms/sounds/345567/,202,,,
-plastic crumpling,https://freesound.org/people/Splashdust/sounds/84275/,203,,,
+plastic crumpling,https://freesound.org/people/jrsevers3/sounds/444745/,199,Yes,No,"Sounds stiff, like plastic water bottle crumpling"
+plastic crumpling,https://freesound.org/people/myfreesoundaccount1998/sounds/543249/,200,Yes,No,Plastic bag 
+plastic crumpling,https://freesound.org/people/matthewHoldenSound/sounds/542510/,201,Yes,No,Small plastic wrappers 
+plastic crumpling,https://freesound.org/people/phonographfilms/sounds/345567/,202,Yes,No,Stiffer bag 
+plastic crumpling,https://freesound.org/people/Splashdust/sounds/84275/,203,Yes,No,"Small wrapper(?) again, sounds stiffer than other wrapper sound"
 plastic crumpling,https://freesound.org/people/georgesavic/sounds/593453/,204,,,
 plastic crumpling,https://freesound.org/people/siteflight/sounds/564039/,205,,,
 plastic crumpling,https://freesound.org/people/florianreichelt/sounds/447396/,206,,,
@@ -236,11 +236,11 @@ baby breaths,https://freesound.org/people/Julien%20Matthey/sounds/167079/,233,,,
 baby breaths,https://freesound.org/people/skymary/sounds/372222/,234,,,
 baby breaths,https://freesound.org/people/Berwitz/sounds/412350/,235,,,
 baby breaths,https://freesound.org/people/dmoran87/sounds/128771/,236,,,
-water drops,https://freesound.org/people/yurkobb/sounds/181890/,237,,,
-water drops,https://freesound.org/people/deleted_user_2104797/sounds/324866/,238,,,
-water drops,https://freesound.org/people/unfa/sounds/259326/,239,,,
-water drops,https://freesound.org/people/caquet/sounds/486300/,240,,,
-water drops,https://freesound.org/people/14FPanska_Nemec_Petr/sounds/420221/,241,,,
+water drops,https://freesound.org/people/yurkobb/sounds/181890/,237,Yes,No,"Long duration, good sound"
+water drops,https://freesound.org/people/deleted_user_2104797/sounds/324866/,238,Yes,No,"Steadier, heavy stream "
+water drops,https://freesound.org/people/unfa/sounds/259326/,239,Yes,No,Single droplets into water 
+water drops,https://freesound.org/people/caquet/sounds/486300/,240,Yes,No,Small stream 
+water drops,https://freesound.org/people/14FPanska_Nemec_Petr/sounds/420221/,241,Yes,No,Small stream 
 water drops,https://freesound.org/people/Zaziesound/sounds/496303/,242,,,
 water drops,https://freesound.org/people/ReiyaManor/sounds/351623/,243,,,
 water drops,https://freesound.org/people/Raavj/sounds/546092/,244,,,
@@ -267,20 +267,20 @@ clearing throat,https://freesound.org/people/Sukaichae/sounds/546751/,264,,,
 clearing throat,https://freesound.org/people/jasonLON/sounds/125403/,265,,,
 clearing throat,https://freesound.org/people/PringlesCan/sounds/432193/,266,,,
 clearing throat,https://freesound.org/people/ProductionNow/sounds/197728/,267,,,
-swallowing,https://freesound.org/people/tumiwiththesounds/sounds/501948/,268,,,
-swallowing,https://freesound.org/people/anagar/sounds/267932/,269,,,
-swallowing,https://freesound.org/people/squashy555/sounds/239007/,270,,,
-swallowing,https://freesound.org/people/transeman/sounds/515278/,271,,,
-swallowing,https://freesound.org/people/timgormly/sounds/145387/,272,,,
-swallowing,https://freesound.org/people/BlackSilver2018/sounds/237933/,273,,,
-swallowing,https://freesound.org/people/mariekedekoker/sounds/274895/,274,,,
-swallowing,https://freesound.org/people/freakinbehemoth/sounds/243635/,275,,,
-swallowing,https://freesound.org/people/johnnytal/sounds/100880/,276,,,
-swallowing,https://freesound.org/people/14G_Panska_Niklova_Michaela/sounds/422142/,277,,,
-swallowing,https://freesound.org/people/craigglenday/sounds/517173/,278,,,
-swallowing,https://freesound.org/people/be_a_hero_not_a_patriot/sounds/341901/,279,,,
-swallowing,https://freesound.org/people/Mediaman57/sounds/347146/,280,,,
-swallowing,https://freesound.org/people/supreme1197/sounds/516682/,281,,,
+swallowing,https://freesound.org/people/tumiwiththesounds/sounds/501948/,268,Yes,No,Repeated gulp sound
+swallowing,https://freesound.org/people/anagar/sounds/267932/,269,Yes,No,Swallowing water
+swallowing,https://freesound.org/people/squashy555/sounds/239007/,270,Yes,Yes,Others: sound is mostly sipping rather than swallowing
+swallowing,https://freesound.org/people/transeman/sounds/515278/,271,Unsure,Yes,"Others: spoon scraping bowl, chewing, slurping, drinking, burp"
+swallowing,https://freesound.org/people/timgormly/sounds/145387/,272,Yes,No,Swallowing water
+swallowing,https://freesound.org/people/BlackSilver2018/sounds/237933/,273,No,Yes,"Others: strange humming, chirping, blowing"
+swallowing,https://freesound.org/people/mariekedekoker/sounds/274895/,274,No,Yes,"Others: quiet breaths, slurping"
+swallowing,https://freesound.org/people/freakinbehemoth/sounds/243635/,275,Yes,No,Swallowing water
+swallowing,https://freesound.org/people/johnnytal/sounds/100880/,276,No,Yes,Others: gargling water
+swallowing,https://freesound.org/people/14G_Panska_Niklova_Michaela/sounds/422142/,277,No,Yes,"Others: young baby gargling, possibly swallowing "
+swallowing,https://freesound.org/people/craigglenday/sounds/517173/,278,Yes,Yes,Others: exhale of relief 
+swallowing,https://freesound.org/people/be_a_hero_not_a_patriot/sounds/341901/,279,Yes,Yes,"Others: sipping, chewing, mouth sounds"
+swallowing,https://freesound.org/people/Mediaman57/sounds/347146/,280,Yes,Yes,"Others: glass tapping, setting drink down, exhale. Clear swallowing portion though "
+swallowing,https://freesound.org/people/supreme1197/sounds/516682/,281,Unsure,Yes,Water sloshing in container. Sounds similar to swallowing 
 swallowing,https://freesound.org/people/monosfera/sounds/569061/,282,,,
 swallowing,https://freesound.org/people/Koolwhip/sounds/328010/,283,,,
 swallowing,https://freesound.org/people/Eakoontz/sounds/153532/,284,,,
